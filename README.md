@@ -2,9 +2,11 @@
 
 Windows co-op action game from MakeWay Studios. This repository is reserved for public Windows releases and update metadata.
 
-Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.3 — Tactical Arms**.
+Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.4 — First Jump**.
 
-Desktop play now uses detailed tactical gloves and sleeves with original 4K surface maps, an authored arm rig, and animated rifle magazine handling. Right-click optic/iron-sight aiming stays aligned. The garage retains cyan/violet neon, approach-only titles and simple menus. Microphone status remains visible for AXIOM.
+Start with empty hands. Your first jump drops you into a medieval battle with nearby skirmishes and incoming arrows: use cover and reach the emergency rift with your crew. Back home, prepare a free loadout at the weapons bench before the next trip. The garage always keeps your hands free. Intro completion and preparation save per player and synchronize in co-op.
+
+Detailed tactical gloves now have relaxed, alert and sprinting empty-hand poses. Later missions retain authored weapon animations and right-click optic/iron-sight aiming. The garage keeps cyan/violet neon, approach-only titles and simple menus; AXIOM knows the new progression.
 
 This is a free noncommercial build. New arm mesh/maps are by DJMaesen (CC BY-NC 4.0); source animation clips are by Cransh (CC BY 4.0). Full credits, modifications and license texts are included in `docs/FIRST_PERSON_ARMS.md`. Other assets retain their separate licenses.
 
