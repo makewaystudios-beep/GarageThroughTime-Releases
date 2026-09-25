@@ -2,9 +2,11 @@
 
 Windows co-op action game from MakeWay Studios. This repository is reserved for public Windows releases and update metadata.
 
-Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.5 — Shared Garage**.
+Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.6 — Illustrated Armory**.
 
 Open the game and enter the public garage automatically. No LAN section, Host, Join or address entry is needed. Up to six players share the server, with six separate garage spawn points. New arrivals always enter the garage, even while a crew is away on a mission. Use the teleporter to travel into the active operation.
+
+The weapons bench now opens an illustrated Armory with Shop and Inventory tabs, category filters, large item previews, and Buy/Equip buttons. Fifty generated item images cover the starter weapons, ammo bundles, upgrade tiers, and finishes for the rifle, pistol and knife. Spend salvage on upgrades, store extra ammo for future armed deployments, and equip owned finishes for the next expedition. Purchases and equipped choices save per player.
 
 Start with empty hands. Your first jump drops you into a medieval battle with nearby skirmishes and incoming arrows: use cover and reach the emergency rift with your crew. Back home, prepare a free loadout at the weapons bench before the next trip. The garage always keeps your hands free. Intro completion and preparation save per player and synchronize in co-op.
 
