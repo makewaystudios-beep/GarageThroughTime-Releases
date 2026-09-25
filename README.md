@@ -2,7 +2,9 @@
 
 Windows co-op action game from MakeWay Studios. This repository is reserved for public Windows releases and update metadata.
 
-Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.4 — First Jump**.
+Download **GarageThroughTime-Setup.exe** from [Releases](https://github.com/makewaystudios-beep/GarageThroughTime-Releases/releases/latest). Current game: **0.3.5 — Shared Garage**.
+
+Open the game and enter the public garage automatically. No LAN section, Host, Join or address entry is needed. Up to six players share the server, with six separate garage spawn points. New arrivals always enter the garage, even while a crew is away on a mission. Use the teleporter to travel into the active operation.
 
 Start with empty hands. Your first jump drops you into a medieval battle with nearby skirmishes and incoming arrows: use cover and reach the emergency rift with your crew. Back home, prepare a free loadout at the weapons bench before the next trip. The garage always keeps your hands free. Intro completion and preparation save per player and synchronize in co-op.
 
@@ -14,6 +16,6 @@ For a fresh install, choose your folder with **Browse…**, then click **Install
 
 Choose **Play on desktop** or **Play in VR** when the game opens. Experimental PC VR targets Meta Quest 2 through Quest Link or Air Link and an active OpenXR runtime. It has not yet been verified on a physical headset. This is a Windows PC game, not a standalone Quest app.
 
-The shared co-op server supports four players. Availability depends on the host PC, dedicated server, and internet relay remaining online. Download availability does not mean that the game server is online.
+The shared co-op server supports six players. Closing a client leaves the dedicated garage open; dropped connections retry automatically. A background supervisor restarts exited server or relay processes. Availability still depends on the hosting PC staying awake, connected to the internet, and logged in after a restart. Download availability does not mean that the game server is online.
 
 Updates and saves are separate: updating the game preserves the player's profile. See the included game documentation for controls, credits, and known limitations.
